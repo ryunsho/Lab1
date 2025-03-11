@@ -18,7 +18,7 @@ function draw(){
         rect((i*10)%width, (i*10)%height, 20, 20, 20);
     }
     fill('tomato');
-    for(var i = 0; i < 100; i++){
+    for(var i = 0; i < 1000; i++){
         rect((i*10)%width, (i*10)%height, 10, 10);
     }
 
